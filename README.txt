@@ -12,3 +12,6 @@ Création de 2 fichiers index.html et style.css
 
 Etape 2:
 Je crée mon code HTML
+
+Etape 3:
+Je crée mon code CSS
