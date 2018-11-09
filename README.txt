@@ -15,3 +15,6 @@ Je crée mon code HTML
 
 Etape 3:
 Je crée mon code CSS
+
+Etape 4:
+Ajout des images dans le dossier
