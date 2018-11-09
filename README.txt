@@ -18,3 +18,6 @@ Je crée mon code CSS
 
 Etape 4:
 Ajout des images dans le dossier
+
+Etape 5:
+Ajout des polices dans le dossier
