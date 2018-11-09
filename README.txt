@@ -9,3 +9,6 @@ Au moins 4 commits distincts montrant l'ajout puis la modification de certains f
 Etape 1:
 Création du Ficihier README.txt
 Création de 2 fichiers index.html et style.css
+
+Etape 2:
+Je crée mon code HTML
